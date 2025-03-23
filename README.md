@@ -58,7 +58,10 @@ Key features influencing this prediction:
 
 ## Sample Prediction for March 24-29, 2025
 
-![prediction](pred.png)
+The price for March 24-29, 2025 is shown below.
+
+![alt text](image.png)
+![](./price_pred.png)
 
 ### Training the Model
 
