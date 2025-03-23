@@ -56,6 +56,10 @@ Key features influencing this prediction:
 - Distance_Lower_Band_50: 0.0295
 ```
 
+## Sample Prediction for March 24-29, 2025
+
+![prediction](pred.png)
+
 ### Training the Model
 
 If you do not want to use the pre-trained model, you can train the model yourself by deleting `tesla_rf_model.joblib` and then running all of the cells.
